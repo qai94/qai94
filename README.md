@@ -1,6 +1,6 @@
 # Hi there, I'm Qaiyum 👋
 
-Engineering + Computer Science · Education professional · Exploring Data Science , Probability & Agentic Intelligence**
+Engineering + Computer Science · Education professional · Exploring Data Science , Probability & Agentic Intelligence
 
 I'm studying Computer Science at Universiti Teknologi MARA (UiTM) while continuing my work in education. Over 10 years in education management, I've worked with students, using data to identify learning gaps and support better performance.
 
