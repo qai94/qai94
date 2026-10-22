@@ -1,4 +1,4 @@
-# Hi there, I'm Qaiyum 👋
+# Hi there, I'm Qaiyum 
 
 Engineering + Computer Science · Education professional · Exploring Data Science , Probability & Agentic Intelligence
 
